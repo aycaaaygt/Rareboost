@@ -10,3 +10,6 @@ RareBoost’s team involves several of IBG’s principle investigators and sever
 We are searching for a senior scientist with a strong background in rare disease research to join us as ERA Chair holder. If you think you could be this person, please review the requirements and the selection procedure here.
 
 A short overview of RareBoost’ work packages is given here and a preliminary outline of its scientific approach is given here.
+
+For more details, visit the Rareboost website 
+https://rareboost.ibg.edu.tr/rare-boost/
