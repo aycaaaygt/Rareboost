@@ -1,4 +1,8 @@
 # Rareboost
+
+![image](https://github.com/aycaaaygt/Rareboost/assets/147816669/9618b10c-478d-425e-aa54-5c7566cc7b0e)
+
+
 RareBoost is IBG’s ERA Chair project awarded in 2020
 
 RareBoost will greatly facilitate the development of IBG’s rare diseases focus towards an international level of excellence in research and innovation.
